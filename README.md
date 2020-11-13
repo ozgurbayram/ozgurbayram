@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Write me what you want to know about me ozgurbayram@protonmail.com
+Write me if you want to know me. ozgurbayram@protonmail.com

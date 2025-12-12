@@ -1,58 +1,51 @@
 # Özgür Bayram
 
-Software Engineer focused on building **high-quality mobile and full-stack systems**.
+Software engineer focused on building high-quality mobile and full-stack systems.
 
-I work primarily with **React Native and TypeScript**, and I care deeply about **performance, clean architecture, and long-term maintainability**. Most of my work involves production systems with real users, real constraints, and real failure modes.
+I work primarily with React Native and TypeScript, with an emphasis on performance, clean architecture, and long-term maintainability. My work tends to focus on production systems where clarity, evolvability, and correctness matter.
 
 ---
 
 ## Focus Areas
 
-- Mobile applications at scale (React Native)
-- Type-safe frontend architecture (TypeScript)
+- Mobile applications at scale
+- Type-safe frontend architecture
 - Backend systems and API design
-- Performance optimization and runtime efficiency
-- Clean Architecture, SOLID principles
-- Developer experience and maintainability
+- Performance-aware system design
+- Clean Architecture and SOLID principles
 
 ---
 
-## Technologies I Use
+## Technologies
 
 **Mobile**
 - React Native, TypeScript
 - Reanimated, Native Modules
-- Platform-specific integrations (Android / iOS)
 
 **Frontend**
 - React, Next.js
-- Redux Toolkit, RTK Query
+- Redux Toolkit
 
 **Backend**
 - Node.js, .NET Core
-- REST APIs, WebSockets, real-time systems
+- REST APIs, WebSockets
 
 **Data & Infrastructure**
-- MySQL, MSSQL, Redis
-- CI/CD, Azure DevOps
-- Firebase
+- SQL databases, Redis
+- CI/CD, cloud tooling
 
 ---
 
-## Engineering Philosophy
+## Engineering Perspective
 
-- Simple systems scale better than clever ones  
-- Performance issues are usually architectural  
-- Code is a liability unless it is easy to change  
-- Tooling should serve the product, not the other way around  
+- Preference for simple, well-factored designs
+- Interest in systems that are easy to evolve over time
+- Attention to performance characteristics as part of design
+- Pragmatic use of tools in service of product goals
 
 ---
 
 ## Links
 
 - GitHub: https://github.com/ozgurbayram  
-- LinkedIn: https://linkedin.com/in/bayramozgur  
-
----
-
-*I use GitHub to explore ideas, build real systems, and keep my engineering standards sharp.*
+- LinkedIn: https://linkedin.com/in/bayramozgur
